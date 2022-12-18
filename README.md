@@ -6,3 +6,4 @@ I have used Node.js to solve these challenges:
     * Part Two: Top Three Elves
 * Day 2: Rock Paper Scissors
     * Part One: Tournament for the Tent
+    * Part Two: The True Strategy
