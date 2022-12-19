@@ -7,3 +7,5 @@ I have used Node.js to solve these challenges:
 * Day 2: Rock Paper Scissors
     * Part One: Tournament for the Tent
     * Part Two: The True Strategy
+* Day 3: Rucksack Reorganization
+    * Part One: Determining Priorities
