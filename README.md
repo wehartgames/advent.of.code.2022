@@ -10,3 +10,4 @@ I have used Node.js to solve these challenges:
     * Part Two: The True Strategy
 * Day 3: Rucksack Reorganization
     * Part One: Determining Priorities
+    * Part Two: Group Badge Authentication
