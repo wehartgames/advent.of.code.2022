@@ -14,3 +14,5 @@ I have used Node.js to solve these challenges:
 * [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)
     * Part One: Clearing Space for Supplies
     * Part Two: Overlapping Assignments
+* [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)
+    * Part One: Rearranging the Crates
