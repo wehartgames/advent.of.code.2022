@@ -11,3 +11,5 @@ I have used Node.js to solve these challenges:
 * Day 3: Rucksack Reorganization
     * Part One: Determining Priorities
     * Part Two: Group Badge Authentication
+* Day 4: Camp Cleanup
+    * Part One: Clearing Space for Supplies
