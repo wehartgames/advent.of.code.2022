@@ -17,4 +17,5 @@ I have used Node.js to solve these challenges:
 * [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)
     * Part One: Rearranging the Crates
     * Part Two: CrateMover 9001
-    
+* [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)
+    * Part One: Repair Communications
